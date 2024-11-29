@@ -19,7 +19,7 @@ This project is a Flask-based web application that allows users to search for Gi
 1. Clone the repository:
     ```sh
     git clone https://github.com/brebribre/github-issue-crawler.git
-    cd github-search-api
+    cd github-crawl
     ```
 
 2. Create a virtual environment and activate it:
